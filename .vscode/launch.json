@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Solution_2022_11_11_2",
+      "request": "launch",
+      "mainClass": "Solution_2022_11_11_2",
+      "projectName": "tea_2d2c3b37"
+    },
+    {
+      "type": "java",
+      "name": "Launch Template",
+      "request": "launch",
+      "mainClass": "Template",
+      "projectName": "tea_2d2c3b37"
+    },
+    {
+      "type": "java",
       "name": "Launch test",
       "request": "launch",
       "mainClass": "test",
